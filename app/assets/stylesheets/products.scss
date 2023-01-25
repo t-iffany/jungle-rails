@@ -85,6 +85,14 @@ main section.categories-show {
           display: inline-block;
           margin-left: auto;
         }
+        .badge {
+          min-width: 110px;
+          padding-left: 1em;
+          padding-right: 1em;
+          background-color: rgba(224, 14, 14, 0.8);
+          color: white;    
+          font: inherit;      
+        }
         button {
           min-width: 110px;
           padding-left: 1em;
