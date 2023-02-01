@@ -1,6 +1,19 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. Inherited and worked within an existing code base in a new language/framework. Extended and improved this web application without understadnding the full source code. Fixed existing bugs and implemented new features. Utilized RSpec and Cypress testing frameworks.
+A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. Inherited and worked within an existing code base in a new language/framework. Extended and improved this web application without understanding the full source code. Fixed existing bugs and implemented new features. Utilized RSpec and Cypress testing frameworks.
+
+# Screenshots
+
+!["home-page"](https://github.com/t-iffany/jungle-rails/blob/master/docs/home.png?raw=true)
+!["products-listings"](https://github.com/t-iffany/jungle-rails/blob/master/docs/products-listings.png?raw=true)
+!["product-details"](https://github.com/t-iffany/jungle-rails/blob/master/docs/product-details.png?raw=true)
+!["cart"](https://github.com/t-iffany/jungle-rails/blob/master/docs/cart.png?raw=true)
+!["stripe"](https://github.com/t-iffany/jungle-rails/blob/master/docs/stripe-purchase.png?raw=true)
+!["order"](https://github.com/t-iffany/jungle-rails/blob/master/docs/order.png?raw=true)
+!["empty-cart"](https://github.com/t-iffany/jungle-rails/blob/master/docs/empty-cart.png?raw=true)
+!["admin-cat"](https://github.com/t-iffany/jungle-rails/blob/master/docs/admin-categories.png?raw=true)
+!["admin-new-cat"](https://github.com/t-iffany/jungle-rails/blob/master/docs/admin-new-cat.png?raw=true)
+!["admin-dash"](https://github.com/t-iffany/jungle-rails/blob/master/docs/admin-dash.png?raw=true)
 
 ## Setup
 
