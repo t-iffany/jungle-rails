@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. Inherited and worked within an existing code base in a new language/framework. Extended and improved this web application without understadnding the full source code. Fixed existing bugs and implemented new features. Utilized RSpec and Cypress testing frameworks.
 
 ## Setup
 
